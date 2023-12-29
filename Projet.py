@@ -477,7 +477,7 @@ def random_forest_model_and_prediction():
     st.write("3. **Importance des caractéristiques** : Le modèle nous permet de déterminer l'importance de chaque caractéristique, ce qui est utile pour comprendre quelles variables ont le plus d'influence sur les prédictions du GDP.")
     
 # Ouvrir le fichier Excel
-excel_file = "/Users/raph/Downloads/2015 World Bank data by nation and region.xls"
+excel_file = "2015 World Bank data by nation and region.xls"
 workbook = xlrd.open_workbook(excel_file)
 
 # Sélectionner une feuille de calcul (feuille) spécifique
