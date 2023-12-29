@@ -37,4 +37,4 @@ Les contributions à ce projet sont les bienvenues. Si vous souhaitez contribuer
 
 ## Contact
 
-Si vous avez des questions ou des suggestions, n'hésitez pas à me contacter via GitHub ou à ouvrir une issue dans ce dépôt.
+Si vous avez des questions ou des suggestions, n'hésitez pas à nous contacter via GitHub ou à ouvrir une issue dans ce dépôt.
