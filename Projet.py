@@ -494,22 +494,6 @@ data_df = data_df.dropna(subset=['Region Code'])
 # Onglets pour la sélection
 selected_tab = st.sidebar.radio("Sélectionnez un onglet :", ["Visualisation des données", "Modèle et prédiction", "Machine learning"])
 
-theme = st.sidebar.radio("Choose your theme", ['Default', 'Dark', 'Light'])
-
-if theme == 'Dark':
-    # Custom CSS to inject dark theme
-    st.markdown("""
-        <style>
-        .main .block-container {
-            background-color: black;
-            color: white;
-        }
-        </style>
-        """, unsafe_allow_html=True)
-
-# ... similarly for other themes
-
-
 # Affichez l'onglet "Visualisation des données"
 if selected_tab == "Visualisation des données":
     visualize_data()
