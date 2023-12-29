@@ -2,6 +2,7 @@
 
 ## Description
 
+Le lien de l'application est le suivant: https://datavisu-e2jedm7wkhzhtyw83wymix.streamlit.app
 Ce projet est une application de visualisation de données construite avec Streamlit, qui permet d'explorer et d'analyser des données démographiques et économiques à travers le monde. Utilisant des données provenant de la Banque Mondiale de 2015, cette application interactive offre des insights sur des variables telles que la population totale, le PIB (produit intérieur brut) en parité de pouvoir d'achat (PPP), le taux d'utilisation d'Internet, l'espérance de vie à la naissance, ainsi que les exportations de biens et services des différents pays.
 
 ## Fonctionnalités
